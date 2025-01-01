@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.sandymist.podcasts.bytecast",
+    "sha256_cert_fingerprints":
+    ["F2:38:6E:6D:98:5D:93:47:61:C1:81:A7:67:FA:BE:16:36:A7:59:A4:B5:1F:BC:F3:63:BD:2E:3C:3A:90:E6:8C"]
+  }
+}]
